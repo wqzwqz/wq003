@@ -1,6 +1,6 @@
 # wq003
 
-start
+start python
 
 
 
